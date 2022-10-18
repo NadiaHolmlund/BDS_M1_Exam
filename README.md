@@ -1,4 +1,4 @@
-# BDS_M1_Exam
+# BDS M1 Exam
 
 ## Business Data Science - Module 1 - Exam
 
