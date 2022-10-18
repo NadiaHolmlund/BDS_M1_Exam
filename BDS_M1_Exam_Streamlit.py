@@ -203,7 +203,7 @@ def load_data_user_view():
 def load_data_sml():
     data_sml_x = pd.read_csv('https://raw.githubusercontent.com/NadiaHolmlund/BDS_M1_Exam/main/SML_Data/data_sml_x.csv')  
     y = pd.read_csv('https://raw.githubusercontent.com/NadiaHolmlund/BDS_M1_Exam/main/SML_Data/data_sml_y.csv')
-    rf_pickle = pickle.load(open("random_forest_rec.pickle", "rb")) 
+    rf_pickle = pickle.load(open("random_forest_rec.pickle", "rb"))
     ordinal_pickle = pickle.load(open("ordinal_enc.pickle", "rb"))
     label_pickle = pickle.load(open("label_enc.pickle", "rb"))
 

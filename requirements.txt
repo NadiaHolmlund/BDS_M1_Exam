@@ -6,4 +6,3 @@ scipy
 sklearn
 plotly
 scikit-learn
-pickle
