@@ -301,7 +301,7 @@ with tab1:
             Welcome to JobHunter, AAU's newest job searching platform for young professionals!
             - Are you looking for jobs in a specific area? Then browse through the map to find open positions in areas of your choice! 🌎 
             - Have you found an interesting job but wish to see similar opportunities? Then check out the tab 'Find similar jobs' to get recommendations! 📊 
-            - SML intro? 👤
+            - Are you curious which job category your attributes match? Try the predictor to determine which job category suits you best! 👤
             - Do you want to learn more about the job market in general? Then head to the fact page to spot numbers and trends! 📈
             - Have you found your dream job and are you ready to apply? Then make sure to use our tips and tricks to write a powerful CV and ace the interview! 📝
             """
