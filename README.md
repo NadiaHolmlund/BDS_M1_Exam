@@ -9,4 +9,5 @@ Subsequently, we developed an UML recommender system to identify similar jobs ba
 In summary, the project provided our team with valuable experience in applying data science techniques, including EDA, unsupervised and supervised machine learning, and data visualization to real-world datasets. The project's outcomes demonstrated the practical utility of these techniques in solving real-world problems.
 
 Click the link below to check out the Streamlit:
+
 https://nadiaholmlund-bds-m1-exam-bds-m1-exam-streamlit-gem5mj.streamlitapp.com/
