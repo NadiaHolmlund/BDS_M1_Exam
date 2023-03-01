@@ -2,7 +2,11 @@
 
 ## Business Data Science - Module 1 - Exam
 
-The following project was completed after 4 weeks on the MSc programme in Business Data Science at Aalborg University. During the exam we had the opportunity to test our newly aquired skills in Python, focusing on EDA, UML, SML and visualization hereof in Streamlit.
+This project was completed after module 1 on the Data Science programme. The project resulted in a job searching platform named JobHunter 🔍. During the project we performed data preprocessing, EDA and geoplotting to gain insights into the underlying data and identify any patterns or anomalies.
+
+Subsequently, we developed an UML recommender system to identify similar jobs based on cosine similarity. Moreover, we developed a SML prediction model to predict the most suitable job industry for an individual based on a given set of features.
+
+In summary, the project provided our team with valuable experience in applying data science techniques, including EDA, unsupervised and supervised machine learning, and data visualization to real-world datasets. The project's outcomes demonstrated the practical utility of these techniques in solving real-world problems.
 
 Click the link below to check out the Streamlit:
 https://nadiaholmlund-bds-m1-exam-bds-m1-exam-streamlit-gem5mj.streamlitapp.com/
