@@ -43,7 +43,7 @@ def load_data_jobs():
     jobs = jobs.drop(['Industry', 'Salary', 'Address', 'Requirements'], axis=1)
     jobs = jobs.dropna()
     jobs['Listing.Start'] = pd.to_datetime(jobs['Listing.Start'], format='%d-%m-%Y')
-    jobs['Listing.End'] = pd.to_datetime(jobs['Listing.End'])
+    jobs['Listing.End'] = pd.to_datetime(jobs['Listing.End'], format='%d-%m-%Y')
     jobs['Created.At'] = pd.to_datetime(jobs['Created.At'])
     jobs['Updated.At'] = pd.to_datetime(jobs['Updated.At'])
     jobs['Date'] = pd.to_datetime(jobs['Created.At']).dt.date
